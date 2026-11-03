@@ -1,0 +1,15 @@
+{
+	"name": "df-spotifyprojectcheta",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2c0a2a6-db2e-409e-8639-f5a54ddbdc95",
+		"tenantId": "947cf4a4-041f-42af-99f0-b1dcb72c4a97"
+	}
+}
